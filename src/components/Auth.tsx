@@ -1,4 +1,4 @@
-import React, { ChangeEvent, useState } from "react";
+import { ChangeEvent, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { SignupInput } from "@lo_ewolf/medium-common";
 import CreateUser from "../axios/CreateUser.ts";
